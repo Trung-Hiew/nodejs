@@ -1,0 +1,65 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .form-container {
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .form-container form {
+    margin-bottom: 20px;
+  }
+  
+  .form-container label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .form-container input[type="text"],
+  .form-container input[type="password"] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form-container .mb-4 {
+    margin-bottom: 20px;
+  }
+  
+  .form-container .d-flex {
+    display: flex;
+  }
+  
+  .form-container .justify-content-center {
+    justify-content: center;
+  }
+  
+  .form-container .remember-forgot {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .form-container .remember-forgot a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  .form-container .remember-forgot input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  .form-container .error-message {
+    color: red;
+  }
+  

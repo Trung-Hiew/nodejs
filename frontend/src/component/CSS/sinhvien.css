@@ -1,0 +1,127 @@
+
+/* Style cho ảnh đại diện */
+.rounded-circle {
+    border-radius: 50%;
+  }
+  
+  /* Style cho card chứa thông tin sinh viên */
+  .card {
+    margin-top: 20px;
+  }
+  
+  /* Style cho nút cập nhật và hủy */
+  button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007bff; /* Màu nút là màu xanh dương */
+    color: #fff; /* Màu chữ là trắng */
+  }
+  
+  /* Style cho input */
+  .form-control {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  /* Style cho dropdown toggle */
+  .dropdown-toggle {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Style cho dropdown menu */
+  .dropdown-menu {
+    min-width: 100px;
+  }
+  
+  /* Style cho navbar */
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  /* Style cho thông tin sinh viên */
+  .student-info {
+    margin-bottom: 20px;
+  }
+  
+  /* Style cho form cập nhật */
+  .update-form {
+    margin-top: 20px;
+  }
+  
+  /* Style cho thẻ table */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  /* Style cho header của table */
+  thead {
+    background-color: #007bff; /* Màu nền là màu xanh dương */
+    color: #fff; /* Màu chữ là trắng */
+  }
+  
+  /* Style cho nội dung bảng */
+  tbody tr:nth-child(even) {
+    background-color: #f2f2f2; /* Màu nền xám nhạt cho các dòng chẵn */
+  }
+  
+  /* Style cho các dòng của bảng */
+  tbody tr {
+    border-top: 1px solid #ddd; /* Đường kẻ giữa các dòng */
+  }
+  
+  /* Style cho các ô của bảng */
+  td {
+    padding: 8px;
+  }
+  
+  /* Style cho tiêu đề của card */
+  .card-title {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  /* Style cho nội dung của card */
+  .card-body {
+    padding: 20px;
+  }
+  
+  /* Style cho card nhóm */
+  .card-group {
+    margin-top: 20px;
+  }
+  /* Style cho phần hiển thị thông tin sinh viên */
+.student-info {
+    margin-bottom: 20px;
+  }
+  
+  /* Style cho form cập nhật */
+  .update-form {
+    margin-top: 20px;
+  }
+  
+  /* Style cho nhãn label */
+  .form-label {
+    font-weight: bold;
+  }
+  
+  /* Style cho các input */
+  .form-control {
+    margin-bottom: 10px;
+  }
+  
+  /* Style cho các nút */
+  .button-group {
+    margin-top: 10px;
+  }
+  
+  /* Style cho nút lưu và hủy */
+  .button-group button {
+    margin-right: 10px;
+  }
+  
